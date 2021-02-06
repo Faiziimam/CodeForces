@@ -1,0 +1,1 @@
+{"name":"Local: MakeAllodd","url":"c:\\Users\\faizimam\\Documents\\CodeForces\\Problem\\MakeAllodd.cpp","tests":[{"id":1612536550226,"input":"4\n4\n1 4 3 2\n5\n1 4 3 2 5\n6\n1 2 6 5 3 4\n3\n4 2 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\faizimam\\Documents\\CodeForces\\Problem\\MakeAllodd.cpp","group":"local","local":true}
