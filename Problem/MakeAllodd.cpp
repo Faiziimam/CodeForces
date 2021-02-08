@@ -24,4 +24,3 @@ int main()
          cout << count << endl;
     }
 }
-a

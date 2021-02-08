@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch StonesOntheTable",
+            "request": "launch",
+            "mainClass": "StonesOntheTable",
+            "projectName": "CodeForces_2a012640"
+        },
+        {
+            "type": "java",
+            "name": "Launch DivisibilityProblem",
+            "request": "launch",
+            "mainClass": "DivisibilityProblem",
+            "projectName": "CodeForces_2a012640"
+        },
+        {
+            "type": "java",
+            "name": "Launch WordCapitalization",
+            "request": "launch",
+            "mainClass": "WordCapitalization",
+            "projectName": "CodeForces_2a012640"
+        },
+        {
+            "type": "java",
+            "name": "Launch Bit",
+            "request": "launch",
+            "mainClass": "Bit",
+            "projectName": "CodeForces_2a012640"
+        },
+        {
+            "type": "java",
+            "name": "Launch Practice",
+            "request": "launch",
+            "mainClass": "Practice",
+            "projectName": "CodeForces_2a012640"
+        },
+        {
+            "type": "java",
+            "name": "Launch Translation",
+            "request": "launch",
+            "mainClass": "Translation",
+            "projectName": "CodeForces_2a012640"
+        },
+        {
+            "type": "java",
+            "name": "Launch Word",
+            "request": "launch",
+            "mainClass": "Word",
+            "projectName": "CodeForces_2a012640"
+        },
+        {
+            "type": "java",
+            "name": "Launch problem",
+            "request": "launch",
+            "mainClass": "problem",
+            "projectName": "CodeForces_2a012640"
+        },
+        {
+            "type": "java",
             "name": "Launch NextRound",
             "request": "launch",
             "mainClass": "NextRound",
